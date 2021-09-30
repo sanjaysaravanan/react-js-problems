@@ -1,0 +1,26 @@
+HTML-JS
+button (Button incrementer)
+1 ---> https://codesandbox.io/s/fast-frost-2c46g?file=/index.html  
+Rotate (Rotate outer number in a 3*3 matrix)
+2 ---> https://codesandbox.io/s/dank-surf-pg8o3?file=/index.html
+
+React-JS
+React-Simple (filter tabel using search bar and onclick tabs )
+1 ---> https://codesandbox.io/s/hungry-sky-o2myb?file=/src/App.js
+
+React-Advanced (scroll syncronisation)
+2 ---> https://codesandbox.io/s/unruffled-banach-e8koe?file=/src/App.js
+
+Other common problems
+
+1. Click Counter Using react-js
+2. Auto incrementer
+3. Currency conveter or roman number to decimal converter using react-js
+4. e-commerce app ---> /home, /item-id, /cart
+
+Common react-js Concepts
+useEffect, hoc, useReducer
+
+
+Concepts in javascript
+throttling, debouncing, event looping, temporal dead zone, closures, hoisting, aysnc await, promise, difference between fetch & axios
